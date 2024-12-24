@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love fixing error in code.
 
-💁‍♂️ About me
+## 💁‍♂️ About me
 
 Hello I’m Abdullah Al  Mahmud. I'm a passionate Frontend developer with a deep-seated enthusiasm for learning and adapting to the ever-evolving world of web development. With proficiency in HTML, CSS, JavaScript, and ReactJS, I specialize in creating visually stunning and highly engaging websites. Now I am learning Full Stack Web Development.
 
