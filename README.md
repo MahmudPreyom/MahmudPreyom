@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋! My name is Abdullah Al Mahmud and I'm a Web Developer, from Bangladesh 🇧🇩
 - 🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning Typscript
 - 👯 I’m looking to collaborate on Web Development Projects
