@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img src="https://i.ibb.co.com/MDCgBrwr/Cool-Text-Abdulah-Al-Mahmud-481630607520563.png" alt="Abdullah Al Mahmud" /></a>
+    <img src="https://i.ibb.co.com/TMkFB43p/cooltext481630801756007.png" alt="Abdullah Al Mahmud" /></a>
 </p>
 ## Hi there 👋! My name is Abdullah Al Mahmud and I'm a Web Developer, from Bangladesh
 - 🔭 I’m currently working on Web Development Projects
