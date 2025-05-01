@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://i.ibb.co.com/Lz7wJy7G/cooltext481631006706732.png,https://i.ibb.co.com/8LNpd8sx/cooltext481631069799849.png,https://i.ibb.co.com/xtrkMfdn/cooltext481631167363120.png,https://i.ibb.co.com/FqDNjZRF/cooltext481631220520015.png,https://i.ibb.co.com/j9cb2p4m/cooltext481631254632600.png" /></a>
+    <img src="https://i.ibb.co.com/Lz7wJy7G/cooltext481631006706732.png;https://i.ibb.co.com/8LNpd8sx/cooltext481631069799849.png;https://i.ibb.co.com/xtrkMfdn/cooltext481631167363120.png;https://i.ibb.co.com/FqDNjZRF/cooltext481631220520015.png;https://i.ibb.co.com/j9cb2p4m/cooltext481631254632600.png" /></a>
 </p>
 ## Hi there 👋! My name is Abdullah Al Mahmud and I'm a Web Developer, from Bangladesh
 - 🔭 I’m currently working on Web Development Projects
