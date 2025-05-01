@@ -8,6 +8,11 @@
     <img src="https://readme-typing-svg.demolab.com?lines=Full%20Stack%20Developer;MERN%20Developer;Web%20Developer;Always%20learning%20new%20things;Passionate%20for%20coding;Frontend%20Developer;Backend%20Developer&font=Fira%20Code&center=true&width=600&height=45&color=00bfff&vCenter=true&pause=1000&size=28" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 <!-- ## Hi there 👋! My name is Abdullah Al Mahmud and I'm a Web Developer, from Bangladesh
 - 🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning Typscript
