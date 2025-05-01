@@ -10,7 +10,7 @@
 
 ## 💁‍♂️ About me
 
-Hello I’m Abdullah Al  Mahmud. I'm a passionate Frontend developer with a deep-seated enthusiasm for learning and adapting to the ever-evolving world of web development. With proficiency in HTML, CSS, JavaScript, and ReactJS, I specialize in creating visually stunning and highly engaging websites. Now I am learning Full Stack Web Development.
+Hello! I’m Abdullah Al Mahmud — a passionate Frontend, Backend, and MERN Stack Developer with a strong enthusiasm for continuous learning in the ever-evolving world of web development. I specialize in building dynamic, responsive, and visually engaging web applications using technologies like HTML, CSS, JavaScript, ReactJS, and Next.js. My backend expertise includes Node.js, Express.js, and MongoDB, along with tools like Postman, GitHub, and Vercel for testing, deployment, and version control. I'm also working with TypeScript and CORS to build secure and scalable full-stack applications.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmud.preyom) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmud_preyom) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-mahmud-71152b280) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/m_preyom) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mahmudpreyom1306) 
