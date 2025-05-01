@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?lines=Full%20Stack%20Developer;MERN%20Developer;Web%20Developer;Always%20learning%20new%20things;Passionate%20for%20coding;Frontend%20Developer;Backend%20Developer&font=Fira%20Code&center=true&width=600&height=45&color=00bfff&vCenter=true&pause=1000&size=28" />
   </a>
 </p>
-## Hi there 👋! My name is Abdullah Al Mahmud and I'm a Web Developer, from Bangladesh
+<!-- ## Hi there 👋! My name is Abdullah Al Mahmud and I'm a Web Developer, from Bangladesh
 - 🔭 I’m currently working on Web Development Projects
 - 🌱 I’m currently learning Typscript
 - 👯 I’m looking to collaborate on Web Development Projects
@@ -16,7 +16,7 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: DM in my Linkedin
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love fixing error in code.
+- ⚡ Fun fact: I love fixing error in code. -->
 
 ## 💁‍♂️ About me
 
